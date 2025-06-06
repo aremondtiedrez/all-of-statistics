@@ -12,7 +12,7 @@ For ease of access, we list these here.
  3. Permutation test: chapter 10, bonus, [permutation tests](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch10/Chapter%2010%20-%20Bonus%20-%20Permutation%20Tests.ipynb).
  4. Goodness-of-fit test: chapter 10, bonus, [goodness-of-fit test](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch10/Chapter%2010%20-%20Bonus%20-%20Goodness-of-fit%20Test.ipynb) (only for a Normal model).
  5. Confidence intervals (both normal and percentile) from both parametric bootstrap and posterior distributions:
-    chapter 11, exercise 4, [version 2](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch11/Chapter%2011%20-%20Exercise%2004%20-%20Version%2002.ipynb).
+    chapter 11, exercise 4, [version 2](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch11/Chapter%2011%20-%20Exercise%2004%20-%20Version%202.ipynb).
  6. James-Stein estimator (and comparison to the MLE) with a nice tabulated summary of the results: chapter 12, [exercise 6](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch12/Chapter%2012%20-%20Exercise%2006.ipynb).
  7. Simple linear regression, with plots: chapter 13, [exercise 6](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch13/Chapter%2013%20-%20Exercise%2006.ipynb).
  8. Multiple linear regression, with varying model selection procedures: chapter 13, [exercise 7](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch13/Chapter%2013%20-%20Exercise%2007.ipynb).
