@@ -6,7 +6,7 @@ Self-study of Wasserman's All of Statistics.
 ## Reference notebooks
 The coding exercises include the implementation of several important statistical inference techniques.
 For ease of access, we list these here.
- 1. Confidence bands for the empirical CDF: chapter 7, [exercise 3](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch07/chapter%2007%20-%20exercise%203.ipynb)
+ 1. Confidence bands for the empirical CDF: chapter 7, [exercise 3](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch07/chapter%2007%20-%20exercise%2003.ipynb)
     and [exercise 7](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch07/chapter%2007%20-%20exercise%2007.ipynb).
  2. Bootstrap confidence intervals: chapter 8, [exercise 3](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch08/Chapter%2008%20-%20Exercise%203.ipynb).
  3. Permutation test: chapter 10, bonus, [permutation tests](https://github.com/aremondtiedrez/all-of-statistics/blob/main/ch10/Chapter%2010%20-%20Bonus%20-%20Permutation%20Tests.ipynb).
